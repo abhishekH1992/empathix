@@ -22,8 +22,8 @@ Before you begin, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/serverless-tasks-api.git
-cd serverless-tasks-api
+git clone https://github.com/abhishekH1992/empathix.git
+cd empathix
 ```
 
 ### Install Dependencies
